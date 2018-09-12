@@ -1,0 +1,11 @@
+G:\MyDocument\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp2.0\SocketServer.deps.json
+G:\MyDocument\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp2.0\SocketServer.runtimeconfig.json
+G:\MyDocument\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp2.0\SocketServer.runtimeconfig.dev.json
+G:\MyDocument\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp2.0\SocketServer.dll
+G:\MyDocument\SocketServer\SocketServer\SocketServer\bin\Debug\netcoreapp2.0\SocketServer.pdb
+G:\MyDocument\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp2.0\SocketServer.csproj.CoreCompileInputs.cache
+G:\MyDocument\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp2.0\SocketServer.AssemblyInfoInputs.cache
+G:\MyDocument\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp2.0\SocketServer.AssemblyInfo.cs
+G:\MyDocument\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp2.0\SocketServer.dll
+G:\MyDocument\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp2.0\SocketServer.pdb
+G:\MyDocument\SocketServer\SocketServer\SocketServer\obj\Debug\netcoreapp2.0\SocketServer.csprojAssemblyReference.cache
